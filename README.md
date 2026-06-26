@@ -1,4 +1,10 @@
-# IAMonitor for GNOME/Linux
+<p align="center">
+  <img src="icon.png" alt="IAMonitor Icon" width="180">
+</p>
+
+<h1 align="center">IAMonitor for GNOME/Linux</h1>
+
+<p align="center">
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04%2B%20%7C%2024.04%2B-E95420?logo=ubuntu&logoColor=white)
 ![ZorinOS](https://img.shields.io/badge/ZorinOS-16%2B%20%7C%2018.2-15A6F0?logo=zorin&logoColor=white)
@@ -6,6 +12,8 @@
 ![Fedora](https://img.shields.io/badge/Fedora-38%2B-294172?logo=fedora&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-rolling-1793D1?logo=arch-linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+
+</p>
 
 A GNOME/Linux system tray app that monitors your **Claude Pro/Max** API usage in real time — a port of the original [IAMonitor](https://github.com/hamada-minoro/IAMonitor) macOS app.
 
