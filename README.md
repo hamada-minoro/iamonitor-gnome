@@ -174,5 +174,5 @@ Tasks are stored in `~/.config/iamonitor/tasks.json`.
 
 ## Credits
 
-- Original macOS app: [IAMonitor](https://github.com/hamada-minoro/IAMonitor)
+- Original macOS app: [IAMonitor](https://github.com/Tonny-Francis/IAMonitor)
 - Polling-via-headers idea: [hamada-minoro/api-claude-usage](https://github.com/hamada-minoro/api-claude-usage)
