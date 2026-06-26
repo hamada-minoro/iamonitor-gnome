@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <rect width="16" height="16" fill="none"/>
+  <!-- Simple bar chart icon representing usage monitoring -->
+  <rect x="1" y="10" width="3" height="5" fill="currentColor" opacity="0.9"/>
+  <rect x="5" y="6" width="3" height="9" fill="currentColor" opacity="0.9"/>
+  <rect x="9" y="3" width="3" height="12" fill="currentColor" opacity="0.9"/>
+  <rect x="13" y="7" width="3" height="8" fill="currentColor" opacity="0.9"/>
+</svg>

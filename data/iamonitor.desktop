@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=IAMonitor
+Comment=Claude Pro/Max usage monitor for GNOME/Linux
+Exec=/usr/bin/python3 /opt/iamonitor/iamonitor.py
+Icon=/opt/iamonitor/data/icons/iamonitor.svg
+Terminal=false
+Categories=Utility;Monitor;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
